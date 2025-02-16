@@ -1,0 +1,13 @@
+{
+  "nftContractAddress": "0xDEADDEADDEADDEADDEADDEADDEADDEADDEADDEAD_666666",
+  "boostPercentage": 0,
+  "calculationBlock": 0,
+  "holders": {
+    "0xCB8F8130E289946aec9a17b29819716B1E9e4998": {
+      "estimatedRBTCRewards": 1,
+      "estimatedRIFRewards": 1,
+      "boostedRBTCRewards": 1,
+      "boostedRIFRewards": 1
+    }
+  }
+}
